@@ -1,0 +1,3 @@
+[submodule "Lyrical"]
+	path = Lyrical
+	url = git@github.com:StephenGrider/Lyrical-GraphQL.git
